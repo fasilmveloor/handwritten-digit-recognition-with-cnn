@@ -11,6 +11,9 @@ This example is only based on the python library ```keras``` to implement convol
 installing the requirements.
 ```
 pip3 install -r requirements.txt
+```
+running the code
+```
 python main.py
 ```
 # Requirements
